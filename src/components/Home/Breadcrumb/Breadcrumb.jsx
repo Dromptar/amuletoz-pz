@@ -8,8 +8,8 @@ const Breadcrumb = () => {
             <div>
                 <h1 id='title'>Bienvenides a Amuletos.Pz</h1>
                 <h2>
-                    <a class="button is-success is-light is-large">Nuestra oferta</a>
-                    <a class="button is-success is-large">Saber más!</a>
+                    <a class="button is-danger is-light is-large">Nuestra oferta</a>
+                    <a class="button is-danger is-large">Saber más!</a>
                 </h2>
             </div>
             <div id='subtitle'>

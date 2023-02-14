@@ -1,4 +1,26 @@
 #about {
     background: ghostwhite;
-    height: 100vh;
+    height: auto;
+    padding: 5%;
 }
+
+.container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    vertical-align: top;
+}
+.about-picture {
+    flex: 1;
+    height: 100%;
+}
+.about-picture img {
+    width: 400px;
+}
+.about-text {
+    font-size: 20px;
+    padding-left: 20px;
+    flex: 1;
+    text-align: center
+} 

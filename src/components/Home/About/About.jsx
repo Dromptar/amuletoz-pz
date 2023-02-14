@@ -4,10 +4,16 @@ import './about.css';
 const About = () => {
     return (
         
-       <section id='about'>    
+       <section id='about'>
+            <h3 className='title has-text-centered is-size-2'>Quienes Somos</h3> 
             <div className='container'>
-                <h3 className='title has-text-centered is-size-4'>Quienes Somos</h3>    
-            </div>
+                <aside className='about-picture'>
+                    <img src="../img/mascota.jpg" alt="" />
+                </aside>
+                <aside className='about-text'>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </aside>       
+            </div>     
        </section>
     );
 }
