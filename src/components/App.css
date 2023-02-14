@@ -1,0 +1,51 @@
+*/ colores 
+#008546 vert kelly
+#b2a4d5 lavande
+*/
+
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: ghostwhite;
+}
+
+
+.productCard {
+  width: 18rem;
+  margin: 10px;
+  padding: 10px;
+}
+.card-img-top {
+  width: 100%;
+  height: 20vw;
+  object-fit: cover;
+}
+.productsListCard {
+  display: flex;
+  margin: 10px;
+  align-items:center;
+  justify-content: center;
+  padding: 50px;
+  width: 100%;
+}
+.itemDetail {
+  max-width: 750px;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgb(238, 238, 238);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

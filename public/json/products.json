@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Gargantilla Laila",
+        "marca": "Amuletos.pz",
+        "precio": 700,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img1.jpg?alt=media&token=7d4915cc-1142-4d9e-a814-281e04b57f7a"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Gargantilla Inti",
+        "marca": "Amuletos.pz",
+        "precio": 700,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img2.jpg?alt=media&token=ad2e7ad9-3b58-41eb-a791-780fb03e2a6a"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Gargantilla Freydis",
+        "marca": "Amuletos.pz",
+        "precio": 700,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img3.jpg?alt=media&token=78a663c1-12af-4166-a0a9-3e08070dd482"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombre": "Reflejos de río",
+        "marca": "Amuletos.pz",
+        "precio": 700,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img6.jpg?alt=media&token=ccb7cdfc-da8d-4c7d-87a4-50829e48cc73"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Aritos mojarritas",
+        "marca": "Amuletos.pz",
+        "precio": 600,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img4.jpg?alt=media&token=3806abfa-e208-4098-9555-4cfd43850faa"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Reflejos de río colgantes",
+        "marca": "Amuletos.pz",
+        "precio": 500,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img5.jpg?alt=media&token=a4a00202-cb73-4cf9-a63e-9308fe623fce"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Gargantilla B&W",
+        "marca": "Amuletos.pz",
+        "precio": 400,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/amuletos-pz.appspot.com/o/img7.jpg?alt=media&token=b380fc07-a47f-4aba-9dd6-928cd213dcb6"
+    }
+    
+    
+    
+    
+]

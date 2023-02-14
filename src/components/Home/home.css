@@ -1,0 +1,32 @@
+#title {
+    color: ghostwhite;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 3em;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.3);
+}
+
+#subtitle {
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}
+#subtitle p {
+    font-size: 1.2rem;
+    color: ghostwhite;
+}
+
+#breadcrumb h2 {
+    margin-top: 20px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#breadcrumb h2 a {
+    width: 100%;
+}
+
