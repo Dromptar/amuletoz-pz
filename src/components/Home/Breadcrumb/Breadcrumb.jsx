@@ -15,8 +15,7 @@ const Breadcrumb = () => {
             <div id='subtitle'>
                 <p>“Todas las creencias, sean cuales sean, son verdaderas para quien las cree” - Sócrates</p>
             </div>
-        </section>
-            
+        </section>   
         </>
     );
 }
